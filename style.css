@@ -1,0 +1,25 @@
+.footer{
+    position: fixed;
+    background-color:grey ;
+    width: 100%;
+    bottom: 0;
+    color: turquoise;
+    line-height:2;
+
+}
+
+.notice{
+    margin: 0px;
+    width: 100%;
+    font-size:18px ;
+}
+.NOTE{
+    color: black;
+    font-size: 15px;
+
+}
+
+canvas{
+    border: solid 5px black;
+    
+}
