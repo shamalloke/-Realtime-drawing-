@@ -12,7 +12,7 @@ function setup(){
     video.size(400,400);
 
     poseNet=ml5.poseNet(video,modelLoaded);
-    poseNet.on('Pose', gotPoses);
+    poseNet.on('pose', gotPoses);
 
 }
 
