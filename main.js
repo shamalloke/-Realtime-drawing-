@@ -36,7 +36,7 @@ if(results.length > 0){
 
 
 function draw(){
-document.getElementById("").innerHTML="Width and Hieght of square" + difference + "px";
+document.getElementById("Width_Height").innerHTML="Width and Height of square" + difference + "px";
     background("grey");
     fill("red");
     stroke("red");
